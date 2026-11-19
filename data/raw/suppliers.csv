@@ -1,0 +1,501 @@
+Supplier_ID,Supplier_Name,Supplier_Category,Location,Supplier_Rating
+1,Global Link International,Logistics,"Dallas, USA",3.95
+2,Sterling Edge Solutions,Raw Materials,"Chicago, USA",1.87
+3,Titan Build Associates,MRO Supplies,"Boston, USA",2.8
+4,Cobalt Technologies,MRO Supplies,"London, UK",2.11
+5,Ironclad StarEnterprises,IT Services,"Paris, France",1.39
+6,Meridian Solutions,Packaging,"Sydney, Australia",1.5
+7,Pacific Line,Manufacturing,"São Paulo, Brazil",1.77
+8,United Craft Co,IT Services,"Boston, USA",4.47
+9,Pinnacle Path,Office Supplies,"Berlin, Germany",2.42
+10,Horizon Ltd,Office Supplies,"Sydney, Australia",3.92
+11,Delta FlowPartners,Logistics,"London, UK",4.37
+12,Summit Supply Holdings,MRO Supplies,"Atlanta, USA",1.26
+13,Apex Supply Co,Packaging,"Dallas, USA",2.06
+14,Evergreen LineAssociates,Professional Services,"São Paulo, Brazil",2.71
+15,Core Craft,Packaging,"Chicago, USA",4.02
+16,Premier Data Materials,IT Services,"Paris, France",2.53
+17,Vanguard Link,Raw Materials,"Houston, USA",3.73
+18,Ironclad Enterprises,Professional Services,"Toronto, Canada",1.63
+19,Evergreen Link Manufacturing,Office Supplies,"Tokyo, Japan",4.65
+20,Crimson Ltd,Logistics,"Dallas, USA",2.5
+21,Titan ArcIndustries,Manufacturing,"Shanghai, China",1.08
+22,Sapphire International,Raw Materials,"Boston, USA",4.51
+23,Pacific Bridge Corp,Office Supplies,"Dallas, USA",3.64
+24,Pinnacle ArcLtd,MRO Supplies,"Seattle, USA",4.72
+25,Horizon NetSupply Co,Manufacturing,"Mumbai, India",4.6
+26,Atlantic Craft,IT Services,"London, UK",1.08
+27,Sterling CraftIndustries,IT Services,"Los Angeles, USA",1.92
+28,Azure Star Corp,Logistics,"Atlanta, USA",3.68
+29,Titan FreightConsulting,Packaging,"Boston, USA",4.14
+30,Apex Trade,MRO Supplies,"Berlin, Germany",2.69
+31,Azure Supply,Raw Materials,"Paris, France",3.91
+32,Summit Build Services,Packaging,"Dallas, USA",2.69
+33,Delta Corp,Packaging,"Sydney, Australia",1.39
+34,Pacific Craft Technologies,MRO Supplies,"Shanghai, China",2.93
+35,Sapphire Supply,MRO Supplies,"New York, USA",4.94
+36,Emerald Co,MRO Supplies,"Sydney, Australia",3.65
+37,Premier Build,Logistics,"Los Angeles, USA",3.32
+38,Evergreen Star Solutions,Raw Materials,"São Paulo, Brazil",2.91
+39,United ArcCorp,Office Supplies,"Chicago, USA",3.38
+40,Alpha TradeConsulting,Logistics,"São Paulo, Brazil",3.38
+41,Omega Point Consulting,Manufacturing,"Atlanta, USA",1.82
+42,Summit Supply Co,Office Supplies,"Denver, USA",2.83
+43,Global Path Ltd,IT Services,"Chicago, USA",3.15
+44,Premier Corp,Logistics,"Berlin, Germany",2.14
+45,Crimson Line,Raw Materials,"Sydney, Australia",2.2
+46,Sapphire Freight Partners,IT Services,"Houston, USA",3.97
+47,Pinnacle NetLtd,Logistics,"London, UK",1.81
+48,Vanguard Partners,Raw Materials,"Chicago, USA",3.54
+49,United Holdings,Office Supplies,"Atlanta, USA",1.65
+50,Titan Edge,Raw Materials,"Houston, USA",1.3
+51,Titan SupplySystems,Office Supplies,"Toronto, Canada",1.51
+52,Core Systems,Logistics,"Boston, USA",3.67
+53,Ironclad Materials,Office Supplies,"Boston, USA",4.46
+54,Sapphire EdgeIndustries,Office Supplies,"London, UK",4.13
+55,Cobalt Craft,Office Supplies,"Houston, USA",2.53
+56,Azure Bridge International,Logistics,"Mumbai, India",2.4
+57,Summit TechServices,MRO Supplies,"London, UK",2.11
+58,Ironclad Link Systems,MRO Supplies,"Sydney, Australia",2.32
+59,Atlantic Link Technologies,Professional Services,"Los Angeles, USA",1.43
+60,Core Star,IT Services,"Paris, France",4.6
+61,Pinnacle SupplyMaterials,Raw Materials,"Tokyo, Japan",4.7
+62,Core EdgeCorp,Manufacturing,Singapore,2.26
+63,Evergreen Net Manufacturing,Professional Services,"Toronto, Canada",2.3
+64,Titan Services,MRO Supplies,"Paris, France",3.71
+65,Meridian PointCo,MRO Supplies,"Sydney, Australia",4.33
+66,Nexus Materials,Manufacturing,"Mumbai, India",2.77
+67,Vanguard BridgeTechnologies,IT Services,"Denver, USA",3.06
+68,Pacific Co,Logistics,"Seattle, USA",1.59
+69,Summit Bridge Ltd,IT Services,"Mumbai, India",2.66
+70,Horizon FlowLogistics,MRO Supplies,"Boston, USA",1.59
+71,Sapphire Trade Materials,Logistics,"San Francisco, USA",4.22
+72,United Line,IT Services,"Mumbai, India",1.53
+73,Catalyst Arc,Manufacturing,"Mumbai, India",3.45
+74,Evergreen BridgeDynamics,Professional Services,"Boston, USA",4.36
+75,Ironclad Logistics,Logistics,"Atlanta, USA",2.76
+76,Summit Holdings,Manufacturing,"Sydney, Australia",1.32
+77,Summit FlowGroup,Logistics,"Chicago, USA",2.66
+78,Titan Materials,Raw Materials,"Seattle, USA",4.33
+79,Sapphire Point,MRO Supplies,"Shanghai, China",1.02
+80,Sigma CraftPartners,MRO Supplies,"Shanghai, China",1.12
+81,Catalyst Technologies,Packaging,"Dallas, USA",4.92
+82,Emerald Flow Consulting,Raw Materials,"Chicago, USA",3.57
+83,Azure PathTechnologies,Raw Materials,"Atlanta, USA",2.52
+84,Delta StarHoldings,MRO Supplies,"Atlanta, USA",4.01
+85,Pinnacle Resource,Raw Materials,"Sydney, Australia",1.21
+86,Summit Solutions,Raw Materials,"Boston, USA",1.8
+87,Meridian Freight International,Office Supplies,"Shanghai, China",3.68
+88,Delta LinkSystems,Office Supplies,Singapore,3.43
+89,Ironclad Data Co,IT Services,"São Paulo, Brazil",1.1
+90,Sterling Supply Co,Logistics,"Chicago, USA",3.37
+91,Atlantic NetLtd,IT Services,"São Paulo, Brazil",4.13
+92,Titan Systems,IT Services,"Tokyo, Japan",3.59
+93,Azure Edge Logistics,IT Services,"Toronto, Canada",4.84
+94,Horizon Freight,Office Supplies,"Tokyo, Japan",4.86
+95,Meridian Logistics,Packaging,"Toronto, Canada",4.3
+96,Prime Corp,Professional Services,"Mumbai, India",1.98
+97,Sterling Mark,Manufacturing,"New York, USA",2.98
+98,Elite Services,Manufacturing,"Atlanta, USA",2.36
+99,Titan Manufacturing,Logistics,"Chicago, USA",1.97
+100,Sigma Line,Packaging,"Shanghai, China",2.79
+101,Pacific Net International,MRO Supplies,"Boston, USA",2.22
+102,Sigma Manufacturing,Manufacturing,"Toronto, Canada",4.99
+103,Core Partners,Professional Services,"Atlanta, USA",1.92
+104,Prime TradeAssociates,Office Supplies,"Seattle, USA",1.87
+105,Pinnacle Point,Professional Services,"Houston, USA",4.33
+106,Summit Technologies,Professional Services,"New York, USA",3.83
+107,Pinnacle SupplySolutions,Professional Services,"Dallas, USA",3.55
+108,Atlantic Tech,Professional Services,"Shanghai, China",2.91
+109,Elite Partners,Packaging,"Houston, USA",4.29
+110,Sigma Resource,Raw Materials,"Dallas, USA",1.6
+111,Pacific Enterprises,MRO Supplies,Singapore,3.38
+112,Ironclad ArcSupply Co,Packaging,"Mumbai, India",2.19
+113,Nexus Point,Raw Materials,Singapore,4.84
+114,Ironclad Build Services,Professional Services,"Chicago, USA",1.63
+115,Titan ResourceTechnologies,Raw Materials,"Toronto, Canada",2.8
+116,Nexus Supply,Professional Services,"Denver, USA",3.81
+117,Pacific Craft,Logistics,"Toronto, Canada",1.46
+118,Vertex FreightPartners,Office Supplies,"Chicago, USA",1.24
+119,Meridian Co,Packaging,"Houston, USA",2.87
+120,Horizon Partners,Packaging,"Mumbai, India",1.32
+121,Sapphire Edge Holdings,Professional Services,"New York, USA",1.37
+122,Ironclad Link Consulting,Raw Materials,"San Francisco, USA",2.88
+123,Emerald Link,MRO Supplies,"Shanghai, China",4.88
+124,Core Edge,Manufacturing,"Houston, USA",4.43
+125,Omega Co,MRO Supplies,"Sydney, Australia",1.15
+126,Prime Link Holdings,IT Services,"Paris, France",4.46
+127,Catalyst Line Dynamics,MRO Supplies,"Los Angeles, USA",1.75
+128,Meridian Dynamics,Raw Materials,"Seattle, USA",2.07
+129,Emerald NetDynamics,Packaging,"Houston, USA",1.12
+130,Horizon DataCo,Raw Materials,"Sydney, Australia",2.63
+131,Crimson TradeDynamics,IT Services,"Dallas, USA",2.99
+132,Vanguard Materials,Packaging,"Shanghai, China",1.97
+133,Alpha BuildLtd,Office Supplies,"Chicago, USA",2.1
+134,Prime Arc,Raw Materials,"Denver, USA",3.9
+135,Azure Freight,Packaging,"Berlin, Germany",2.33
+136,Delta Star,Logistics,"São Paulo, Brazil",2.53
+137,United Star,MRO Supplies,"Paris, France",4.95
+138,Sigma SupplyGroup,Manufacturing,"Houston, USA",4.5
+139,Atlantic Arc,Raw Materials,"Dallas, USA",2.64
+140,Pacific BridgePartners,Manufacturing,Singapore,3.77
+141,Azure Star Associates,MRO Supplies,"London, UK",3.51
+142,Azure Line,IT Services,"Boston, USA",3.52
+143,Summit Materials,IT Services,"Houston, USA",2.77
+144,Sapphire Solutions,Manufacturing,"Los Angeles, USA",2.17
+145,Omega International,MRO Supplies,"São Paulo, Brazil",3.73
+146,Elite DataCorp,MRO Supplies,Singapore,3.73
+147,Emerald Point,Logistics,"Mumbai, India",3.55
+148,Pinnacle Tech,Professional Services,"Sydney, Australia",1.63
+149,Core Point,MRO Supplies,"Atlanta, USA",2.83
+150,Apex Logistics,IT Services,"Boston, USA",2.53
+151,Sterling Co,Raw Materials,"Paris, France",2.1
+152,Emerald Mark Logistics,Professional Services,"Boston, USA",3.43
+153,Summit Ltd,Professional Services,"Dallas, USA",3.51
+154,Nexus Path Solutions,Manufacturing,"Dallas, USA",1.36
+155,Prime Technologies,Logistics,"Dallas, USA",4.15
+156,Pinnacle BridgeCo,Manufacturing,"Houston, USA",2.87
+157,Premier Craft Supply Co,Manufacturing,"Chicago, USA",4.16
+158,Pinnacle Line Enterprises,Packaging,"Berlin, Germany",3.69
+159,Sterling Systems,IT Services,"Boston, USA",2.89
+160,Emerald International,IT Services,"Mumbai, India",4.64
+161,Vertex Enterprises,Office Supplies,"Los Angeles, USA",4.79
+162,Sigma Enterprises,Logistics,"Sydney, Australia",1.54
+163,Core Line,Office Supplies,"Toronto, Canada",3.62
+164,Meridian Edge,Raw Materials,"Berlin, Germany",1.87
+165,Summit Wave,Manufacturing,"Sydney, Australia",4.61
+166,United Partners,Logistics,"Houston, USA",4.8
+167,Pacific Build,Raw Materials,"Los Angeles, USA",4.15
+168,Premier PointServices,IT Services,"Sydney, Australia",1.83
+169,Crimson CraftHoldings,Office Supplies,Singapore,1.01
+170,Premier LinePartners,Office Supplies,"Houston, USA",3.64
+171,Premier Tech Systems,Logistics,"São Paulo, Brazil",2.3
+172,Pinnacle SupplyGroup,MRO Supplies,"Tokyo, Japan",1.45
+173,Sigma Path Systems,IT Services,"Mumbai, India",3.02
+174,Evergreen Arc Co,Packaging,"New York, USA",1.24
+175,Azure Flow,IT Services,"Shanghai, China",3.85
+176,Pacific Resource,Office Supplies,"Chicago, USA",1.5
+177,Alpha Manufacturing,Professional Services,"Mumbai, India",3.02
+178,Atlantic Trade,Logistics,"Toronto, Canada",2.81
+179,Omega StarDynamics,MRO Supplies,"Toronto, Canada",3.92
+180,Omega Partners,Manufacturing,"Dallas, USA",3.75
+181,Omega Trade Systems,Office Supplies,"Sydney, Australia",1.24
+182,Catalyst Materials,Manufacturing,"Toronto, Canada",4.47
+183,Nexus Mark Co,Manufacturing,"Houston, USA",3.31
+184,Premier BridgeInternational,IT Services,"Berlin, Germany",4.38
+185,Atlantic Consulting,Logistics,"Toronto, Canada",4.38
+186,Meridian Link Industries,Office Supplies,"Atlanta, USA",3.81
+187,Emerald Systems,Raw Materials,"San Francisco, USA",4.48
+188,Pacific Freight,IT Services,"Tokyo, Japan",1.86
+189,Nexus Consulting,IT Services,"Los Angeles, USA",1.62
+190,Catalyst Resource Partners,Packaging,"Toronto, Canada",2.94
+191,Omega Link,IT Services,"Berlin, Germany",2.72
+192,Catalyst Logistics,Professional Services,"Los Angeles, USA",1.88
+193,Global Build Co,Logistics,"Dallas, USA",4.06
+194,Prime Industries,Packaging,"Toronto, Canada",1.7
+195,Titan Craft,Manufacturing,"Chicago, USA",2.59
+196,Omega Tech Dynamics,IT Services,"London, UK",3.3
+197,Horizon Edge,IT Services,"Paris, France",1.08
+198,Elite Dynamics,Manufacturing,"Chicago, USA",2.75
+199,Summit Edge Consulting,MRO Supplies,"Tokyo, Japan",1.31
+200,Evergreen International,Manufacturing,"San Francisco, USA",1.31
+201,Vanguard Arc Services,Manufacturing,"Berlin, Germany",3.91
+202,Summit TradeGroup,Professional Services,"Seattle, USA",1.69
+203,Ironclad ResourceTechnologies,Packaging,"Mumbai, India",4.02
+204,Catalyst Point,Manufacturing,"London, UK",1.6
+205,Sigma Path Co,Professional Services,"São Paulo, Brazil",1.22
+206,Nexus Path Dynamics,Raw Materials,"Los Angeles, USA",2.47
+207,Pacific Ltd,MRO Supplies,"Mumbai, India",3.32
+208,Delta Point Services,Manufacturing,Singapore,2.9
+209,United PathEnterprises,Manufacturing,"Chicago, USA",3.02
+210,United CraftDynamics,Packaging,"Tokyo, Japan",3.09
+211,Core WaveCo,MRO Supplies,"Toronto, Canada",4.1
+212,Cobalt Star Corp,Manufacturing,"Houston, USA",3.23
+213,Nexus Link,Office Supplies,"London, UK",1.33
+214,Emerald WaveCo,MRO Supplies,"Dallas, USA",3.38
+215,Nexus Line Supply Co,Manufacturing,"Dallas, USA",3.68
+216,Vertex Edge Manufacturing,Manufacturing,"New York, USA",2.45
+217,Apex StarLogistics,Logistics,"Boston, USA",5.0
+218,Pacific NetEnterprises,Raw Materials,"London, UK",4.51
+219,Meridian FlowGroup,Office Supplies,"San Francisco, USA",4.33
+220,Evergreen PathSolutions,MRO Supplies,"Berlin, Germany",3.71
+221,Delta MarkCo,Packaging,"Boston, USA",3.14
+222,Cobalt Services,Manufacturing,"São Paulo, Brazil",4.94
+223,Ironclad Net,MRO Supplies,"San Francisco, USA",4.27
+224,Azure LinkSolutions,Packaging,"Berlin, Germany",3.22
+225,Horizon Arc Enterprises,Professional Services,"Chicago, USA",4.05
+226,Delta Group,MRO Supplies,"Chicago, USA",4.79
+227,Crimson PathSystems,Raw Materials,"Toronto, Canada",1.21
+228,Summit Corp,Manufacturing,"Boston, USA",1.11
+229,Crimson Star Group,Office Supplies,"Los Angeles, USA",2.15
+230,Meridian Tech,Raw Materials,"Atlanta, USA",1.86
+231,Titan MarkManufacturing,MRO Supplies,"Houston, USA",4.1
+232,Nexus TradeSolutions,Logistics,"Toronto, Canada",3.56
+233,Pacific Trade,Raw Materials,"Tokyo, Japan",3.3
+234,Nexus EdgeIndustries,Manufacturing,"Boston, USA",3.28
+235,Catalyst ResourceManufacturing,Manufacturing,"Chicago, USA",4.81
+236,Alpha Bridge Solutions,MRO Supplies,"Berlin, Germany",2.01
+237,Core Resource Systems,Logistics,"Houston, USA",4.09
+238,Premier Systems,Manufacturing,"San Francisco, USA",4.32
+239,Horizon Bridge,Office Supplies,"Chicago, USA",3.86
+240,United Net,Raw Materials,"Seattle, USA",4.54
+241,Emerald Manufacturing,MRO Supplies,"Sydney, Australia",2.89
+242,Ironclad Build Co,Manufacturing,"Los Angeles, USA",4.46
+243,Pinnacle Systems,MRO Supplies,"Paris, France",3.97
+244,Prime Data,Packaging,"Berlin, Germany",4.7
+245,Cobalt Materials,IT Services,"Toronto, Canada",3.41
+246,Titan NetHoldings,IT Services,"Chicago, USA",2.31
+247,Nexus Ltd,MRO Supplies,"San Francisco, USA",3.76
+248,Delta Systems,MRO Supplies,"Atlanta, USA",3.56
+249,Pacific Flow Systems,Office Supplies,"New York, USA",1.57
+250,United Freight,Logistics,"Berlin, Germany",2.45
+251,Meridian Freight Dynamics,Manufacturing,"Berlin, Germany",2.78
+252,Sterling Freight Manufacturing,Manufacturing,"Paris, France",2.26
+253,Summit Industries,Office Supplies,"Shanghai, China",3.07
+254,Pinnacle Link Dynamics,Logistics,Singapore,2.14
+255,Delta Data Dynamics,IT Services,"London, UK",3.67
+256,Titan Line Co,Professional Services,"San Francisco, USA",3.85
+257,Cobalt WaveManufacturing,Logistics,"Houston, USA",4.94
+258,Summit BridgeIndustries,Manufacturing,"Sydney, Australia",3.29
+259,Cobalt Line,IT Services,"Chicago, USA",2.24
+260,Vanguard Edge,IT Services,"Dallas, USA",4.89
+261,Delta Path Manufacturing,Manufacturing,"Dallas, USA",4.51
+262,Ironclad FreightMaterials,Raw Materials,"Houston, USA",3.07
+263,Elite Holdings,Logistics,"Berlin, Germany",4.79
+264,Azure Partners,Logistics,"Sydney, Australia",2.1
+265,Meridian Corp,Office Supplies,"São Paulo, Brazil",4.77
+266,Elite MarkLtd,Manufacturing,"São Paulo, Brazil",1.16
+267,Pacific Supply Consulting,Professional Services,"Seattle, USA",4.07
+268,Vertex Logistics,Logistics,"Paris, France",2.19
+269,Horizon Supply Technologies,Packaging,"Toronto, Canada",2.94
+270,Prime MarkGroup,Manufacturing,"London, UK",3.94
+271,Alpha Systems,IT Services,"London, UK",1.97
+272,Pinnacle Path International,Office Supplies,"Houston, USA",1.2
+273,Azure Mark,Logistics,"San Francisco, USA",4.25
+274,Sigma Net,Raw Materials,"Chicago, USA",4.78
+275,Summit Build,Manufacturing,"Los Angeles, USA",1.2
+276,Meridian Bridge,Raw Materials,"Houston, USA",2.72
+277,Evergreen Supply Co,Manufacturing,"Los Angeles, USA",2.6
+278,Core LineCo,IT Services,"Paris, France",3.02
+279,Premier Trade Supply Co,Manufacturing,"London, UK",3.23
+280,Ironclad Services,MRO Supplies,"Tokyo, Japan",1.16
+281,Premier Star Logistics,Packaging,"Dallas, USA",3.43
+282,Prime MarkHoldings,Office Supplies,"Paris, France",4.96
+283,Sterling Manufacturing,Packaging,"São Paulo, Brazil",2.2
+284,Core Star Enterprises,MRO Supplies,"São Paulo, Brazil",2.23
+285,Meridian Bridge Partners,Logistics,"Los Angeles, USA",3.33
+286,Vanguard MarkSupply Co,Office Supplies,"Boston, USA",1.13
+287,Apex Tech Dynamics,Manufacturing,"Toronto, Canada",1.61
+288,Omega ArcLtd,Packaging,"Los Angeles, USA",3.82
+289,Titan StarLogistics,MRO Supplies,"London, UK",4.83
+290,Emerald Line,Manufacturing,"Atlanta, USA",3.44
+291,Summit LinkAssociates,Professional Services,"Boston, USA",4.77
+292,Prime Bridge,Professional Services,"Denver, USA",1.49
+293,Sapphire Flow,Office Supplies,"Denver, USA",1.17
+294,Core Path Partners,Packaging,"Seattle, USA",1.81
+295,Emerald Partners,Office Supplies,"Houston, USA",3.46
+296,Summit SupplyManufacturing,Logistics,"Boston, USA",1.21
+297,Global LineTechnologies,MRO Supplies,"Shanghai, China",2.91
+298,Ironclad NetHoldings,Professional Services,"Los Angeles, USA",4.63
+299,Vertex Point International,Raw Materials,"San Francisco, USA",2.67
+300,Emerald SupplySupply Co,Packaging,"San Francisco, USA",4.75
+301,Sapphire Industries,Professional Services,"São Paulo, Brazil",3.41
+302,Nexus Associates,Packaging,"Dallas, USA",4.4
+303,Pinnacle Build,Manufacturing,"San Francisco, USA",3.92
+304,Horizon Industries,Manufacturing,"Denver, USA",3.27
+305,Elite MarkSupply Co,MRO Supplies,"Tokyo, Japan",2.31
+306,Catalyst Trade,Office Supplies,"Shanghai, China",2.29
+307,Global LinkSupply Co,Logistics,"Mumbai, India",4.02
+308,Pinnacle Wave International,Raw Materials,"Houston, USA",2.86
+309,Alpha ArcCo,IT Services,"Denver, USA",2.47
+310,Summit FreightLogistics,Office Supplies,"Mumbai, India",3.99
+311,Omega Logistics,Logistics,"Boston, USA",3.72
+312,Vanguard Path Manufacturing,Manufacturing,"Chicago, USA",4.67
+313,United Line Manufacturing,Logistics,"São Paulo, Brazil",3.15
+314,Prime ArcDynamics,IT Services,"Seattle, USA",3.87
+315,Pacific Arc,Raw Materials,"Mumbai, India",1.53
+316,Delta Point,Packaging,"Denver, USA",3.89
+317,United Edge Systems,IT Services,"Sydney, Australia",4.98
+318,Emerald Bridge Solutions,Professional Services,"Toronto, Canada",1.72
+319,Ironclad EdgeSystems,MRO Supplies,"Mumbai, India",4.48
+320,Alpha Resource,Office Supplies,"Berlin, Germany",1.47
+321,Vanguard Freight,Raw Materials,"New York, USA",4.91
+322,Catalyst Line,MRO Supplies,"Boston, USA",1.99
+323,Premier Services,IT Services,"Los Angeles, USA",4.24
+324,Pacific TradeLtd,Raw Materials,"Mumbai, India",3.39
+325,Summit Supply Supply Co,Packaging,"Boston, USA",3.16
+326,Premier Arc Co,Logistics,"São Paulo, Brazil",2.28
+327,Summit Group,Logistics,"Toronto, Canada",2.2
+328,Titan Point Technologies,MRO Supplies,"Sydney, Australia",2.98
+329,Vertex Manufacturing,Manufacturing,"Toronto, Canada",2.63
+330,Alpha Associates,Packaging,"Boston, USA",4.4
+331,Azure Dynamics,Raw Materials,"Sydney, Australia",2.65
+332,Titan Arc,MRO Supplies,"Boston, USA",2.02
+333,Vertex Dynamics,Manufacturing,"Chicago, USA",3.14
+334,United LinkSupply Co,Raw Materials,"Chicago, USA",1.75
+335,Sigma BuildHoldings,Professional Services,"New York, USA",1.85
+336,Evergreen TradeLogistics,Logistics,Singapore,3.82
+337,Emerald Craft,Manufacturing,"Denver, USA",2.52
+338,Nexus Systems,Packaging,"Mumbai, India",1.39
+339,Ironclad Star,Manufacturing,"London, UK",2.66
+340,Evergreen FreightIndustries,Professional Services,"Sydney, Australia",4.74
+341,Nexus Freight,Manufacturing,"Boston, USA",2.52
+342,Sigma LineHoldings,Professional Services,"Shanghai, China",4.87
+343,Delta Data,Office Supplies,"Dallas, USA",3.88
+344,Elite Line,Raw Materials,"Chicago, USA",4.78
+345,Ironclad Tech Materials,Office Supplies,"Boston, USA",1.27
+346,Global BuildManufacturing,Packaging,"Berlin, Germany",1.24
+347,Catalyst Bridge,Raw Materials,"Sydney, Australia",3.21
+348,Global Arc Partners,Professional Services,"New York, USA",3.01
+349,Cobalt Data,IT Services,"Tokyo, Japan",1.6
+350,Meridian ArcPartners,Manufacturing,"Atlanta, USA",4.18
+351,Core Flow Dynamics,Logistics,"Boston, USA",2.2
+352,Vertex Supply Corp,MRO Supplies,"Paris, France",2.51
+353,United Tech,IT Services,"Shanghai, China",4.38
+354,Summit Build Consulting,Packaging,"Atlanta, USA",1.19
+355,Catalyst Link Associates,Raw Materials,"San Francisco, USA",4.72
+356,Global Consulting,Office Supplies,"Paris, France",4.72
+357,Elite International,MRO Supplies,"Sydney, Australia",2.33
+358,Cobalt ResourceManufacturing,Manufacturing,"Los Angeles, USA",1.39
+359,Crimson ResourceHoldings,MRO Supplies,"London, UK",1.12
+360,Cobalt Logistics,Logistics,"Berlin, Germany",3.21
+361,Omega Data,MRO Supplies,"Chicago, USA",4.09
+362,Cobalt Corp,IT Services,"Atlanta, USA",1.62
+363,Evergreen FlowHoldings,Manufacturing,"Houston, USA",1.37
+364,Delta Partners,IT Services,"Dallas, USA",1.35
+365,Delta Line,MRO Supplies,"Houston, USA",1.11
+366,Titan Ltd,Manufacturing,"Paris, France",1.05
+367,Sterling ArcTechnologies,MRO Supplies,"San Francisco, USA",1.56
+368,Pinnacle Group,IT Services,"San Francisco, USA",2.74
+369,Nexus Bridge,Manufacturing,"Atlanta, USA",4.78
+370,Meridian Mark,Packaging,"Houston, USA",1.54
+371,Alpha Star Ltd,MRO Supplies,"London, UK",2.76
+372,Crimson Mark,Professional Services,"London, UK",3.41
+373,Sigma StarTechnologies,MRO Supplies,"London, UK",2.17
+374,Sterling Craft,MRO Supplies,"Atlanta, USA",4.27
+375,Core Trade,Logistics,"São Paulo, Brazil",4.99
+376,Catalyst LineIndustries,Packaging,"Seattle, USA",2.75
+377,Crimson Materials,Packaging,"Dallas, USA",3.53
+378,Pinnacle FreightMaterials,MRO Supplies,"Chicago, USA",2.8
+379,Sterling Flow,MRO Supplies,"Sydney, Australia",1.15
+380,Atlantic Craft Systems,Office Supplies,Singapore,1.18
+381,Global Trade Partners,Logistics,"Tokyo, Japan",3.99
+382,Delta WaveSupply Co,Packaging,"São Paulo, Brazil",3.76
+383,Core TechLogistics,IT Services,"Denver, USA",2.66
+384,Atlantic Freight Systems,Professional Services,"London, UK",2.82
+385,Vanguard BridgeSystems,Packaging,"Houston, USA",2.75
+386,Prime Resource,Raw Materials,"Houston, USA",1.09
+387,Vertex Technologies,Logistics,"Tokyo, Japan",1.7
+388,Prime LineMaterials,Packaging,"Boston, USA",4.19
+389,Elite EdgeSupply Co,Raw Materials,Singapore,4.53
+390,Sterling Edge,Raw Materials,"Seattle, USA",1.82
+391,Sterling Trade Associates,Office Supplies,"Berlin, Germany",2.3
+392,Atlantic Link,Manufacturing,Singapore,2.55
+393,Sterling Trade,Manufacturing,"Mumbai, India",3.47
+394,Emerald Consulting,IT Services,"Dallas, USA",2.25
+395,Nexus TradeTechnologies,Manufacturing,"Dallas, USA",3.04
+396,Meridian Freight,MRO Supplies,"Toronto, Canada",1.74
+397,Titan DataLogistics,Professional Services,"Dallas, USA",1.75
+398,Meridian Supply,Raw Materials,"Shanghai, China",1.55
+399,Sigma Data,Raw Materials,"Boston, USA",2.17
+400,Summit Co,Office Supplies,"Mumbai, India",3.26
+401,Pinnacle Line Systems,Raw Materials,"Mumbai, India",3.19
+402,Delta Link Systems,IT Services,"Mumbai, India",4.46
+403,Ironclad Craft Services,Manufacturing,Singapore,3.53
+404,Meridian FreightServices,Logistics,"Los Angeles, USA",3.28
+405,Meridian Technologies,Manufacturing,"Denver, USA",2.16
+406,Azure Enterprises,Office Supplies,"Toronto, Canada",4.68
+407,Azure Group,Logistics,"Dallas, USA",3.85
+408,Ironclad FlowLogistics,Office Supplies,"São Paulo, Brazil",3.53
+409,Alpha Path,IT Services,"Paris, France",3.06
+410,Horizon Dynamics,Packaging,"London, UK",3.33
+411,Evergreen Path Systems,IT Services,"Sydney, Australia",2.59
+412,Crimson Build,Professional Services,"London, UK",4.31
+413,Titan Group,Packaging,"London, UK",4.58
+414,United Trade Dynamics,Raw Materials,"Houston, USA",4.72
+415,Delta PathIndustries,MRO Supplies,"Seattle, USA",4.98
+416,Sapphire NetTechnologies,Professional Services,"Chicago, USA",3.62
+417,Pacific Technologies,Raw Materials,"Paris, France",3.5
+418,Omega ResourceEnterprises,Raw Materials,"Seattle, USA",2.91
+419,Sterling CraftManufacturing,Packaging,"New York, USA",1.03
+420,Sigma ResourceInternational,MRO Supplies,"Chicago, USA",3.92
+421,Atlantic Star Systems,Professional Services,"Dallas, USA",2.53
+422,Vertex FreightCorp,Raw Materials,Singapore,3.6
+423,Core Build,MRO Supplies,Singapore,3.75
+424,Pacific TradeGroup,IT Services,"São Paulo, Brazil",3.92
+425,Omega Group,Logistics,"Atlanta, USA",3.58
+426,Titan MarkLtd,Professional Services,"New York, USA",4.39
+427,Apex Ltd,Logistics,"Paris, France",2.18
+428,Cobalt Craft Logistics,MRO Supplies,"Houston, USA",1.96
+429,Vanguard Tech Systems,Manufacturing,"Dallas, USA",2.55
+430,Ironclad Resource,IT Services,"New York, USA",2.05
+431,Emerald Supply Supply Co,Professional Services,"Tokyo, Japan",4.07
+432,Horizon Flow,Office Supplies,"Atlanta, USA",1.33
+433,Vanguard Build Group,Manufacturing,"Paris, France",3.35
+434,Nexus Edge International,Raw Materials,"Boston, USA",1.34
+435,Atlantic Path,Raw Materials,"Denver, USA",3.66
+436,Atlantic TechGroup,Raw Materials,"San Francisco, USA",2.99
+437,Core FreightPartners,IT Services,"New York, USA",2.34
+438,Pinnacle Arc,Professional Services,"São Paulo, Brazil",3.51
+439,Delta Arc,Raw Materials,"Shanghai, China",4.44
+440,Core DataPartners,IT Services,"São Paulo, Brazil",3.7
+441,Summit Arc Industries,Raw Materials,"New York, USA",1.98
+442,Core Flow,Office Supplies,"Los Angeles, USA",3.21
+443,Summit Star,MRO Supplies,"London, UK",2.09
+444,Sterling Wave Enterprises,Raw Materials,"San Francisco, USA",1.89
+445,Alpha Resource Dynamics,Professional Services,"Denver, USA",2.31
+446,Global Wave,Professional Services,"São Paulo, Brazil",4.14
+447,Delta WaveConsulting,Packaging,"Seattle, USA",3.93
+448,Premier TechMaterials,Raw Materials,"Boston, USA",3.17
+449,Prime Tech Supply Co,Professional Services,"Houston, USA",1.82
+450,Omega BridgeSolutions,Office Supplies,"Atlanta, USA",1.37
+451,Sapphire ArcMaterials,Manufacturing,"Mumbai, India",4.9
+452,Sterling Trade Manufacturing,Office Supplies,"Paris, France",1.3
+453,Omega Freight International,Professional Services,"Atlanta, USA",4.4
+454,Horizon Star,Packaging,"Atlanta, USA",1.93
+455,Premier PointEnterprises,Office Supplies,"Houston, USA",1.66
+456,Prime Edge,Manufacturing,"Seattle, USA",2.81
+457,Pinnacle Trade,Office Supplies,"Denver, USA",4.31
+458,Apex Star Group,IT Services,"Boston, USA",4.87
+459,Vanguard Supply,Professional Services,"San Francisco, USA",1.12
+460,Azure Path,Logistics,"Houston, USA",2.85
+461,Atlantic TechSolutions,Logistics,"Dallas, USA",1.79
+462,Core Resource,Professional Services,"Chicago, USA",1.09
+463,Apex Path Group,IT Services,"London, UK",1.49
+464,United Data,MRO Supplies,"Paris, France",2.98
+465,Catalyst Edge,Manufacturing,"Seattle, USA",4.63
+466,Meridian Mark Ltd,Logistics,"Denver, USA",3.0
+467,United Resource,MRO Supplies,"Dallas, USA",2.68
+468,Vertex LineIndustries,MRO Supplies,"Berlin, Germany",2.92
+469,Alpha Technologies,Raw Materials,"London, UK",3.39
+470,Sapphire Link Solutions,Packaging,"Tokyo, Japan",2.43
+471,Elite TradeInternational,Logistics,"Atlanta, USA",3.13
+472,Ironclad Craft Consulting,MRO Supplies,"Berlin, Germany",4.74
+473,Elite CraftConsulting,Manufacturing,"Berlin, Germany",4.66
+474,Horizon Wave Consulting,Office Supplies,"São Paulo, Brazil",4.79
+475,Titan Net,Packaging,"Los Angeles, USA",1.36
+476,Meridian CraftIndustries,Packaging,"New York, USA",2.33
+477,Cobalt FreightHoldings,Office Supplies,"London, UK",1.24
+478,Sterling FreightEnterprises,Manufacturing,"Chicago, USA",2.49
+479,Cobalt Bridge,Office Supplies,"Sydney, Australia",3.77
+480,Nexus Net,Office Supplies,"New York, USA",4.8
+481,Azure Point,Office Supplies,Singapore,2.27
+482,Vertex PointEnterprises,Packaging,"Dallas, USA",2.32
+483,Summit Wave Holdings,Office Supplies,"Chicago, USA",4.29
+484,Summit ResourceSystems,Professional Services,"Houston, USA",3.88
+485,Alpha Path Materials,Office Supplies,"Toronto, Canada",2.97
+486,Crimson Bridge Consulting,Logistics,"San Francisco, USA",2.81
+487,Nexus Tech Holdings,Professional Services,"Houston, USA",1.3
+488,Sapphire FlowTechnologies,IT Services,"Sydney, Australia",4.77
+489,Prime Mark Ltd,Packaging,"New York, USA",2.73
+490,Meridian EdgeTechnologies,Raw Materials,"Houston, USA",2.32
+491,Omega LineAssociates,Professional Services,"Denver, USA",2.19
+492,United Flow Consulting,Packaging,"Dallas, USA",1.22
+493,Omega Resource Co,Packaging,"Seattle, USA",1.39
+494,Elite NetCorp,Packaging,"Houston, USA",2.23
+495,Sigma Bridge,IT Services,"Sydney, Australia",2.55
+496,Sapphire Systems,Office Supplies,"Mumbai, India",1.18
+497,Delta Link,Professional Services,"São Paulo, Brazil",1.25
+498,Pacific Wave Associates,MRO Supplies,"São Paulo, Brazil",1.91
+499,Crimson Flow Manufacturing,MRO Supplies,"Sydney, Australia",3.75
+500,Pacific Solutions,Office Supplies,"Houston, USA",4.8
